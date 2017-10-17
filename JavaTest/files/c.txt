@@ -1,0 +1,16 @@
+java
+hadoop
+scala
+spark
+python
+hive
+go
+hbase
+ruby
+storm
+jsp
+flume
+html
+kafka
+js
+css
